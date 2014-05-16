@@ -256,7 +256,7 @@ img.max-width {
 }
 
 .text-spacing {
-    padding: 40px 0;
+    padding: 0px 0;
 }
 
 .text-spacing-small {
@@ -491,7 +491,7 @@ Header || Navigation Left
 .body {
     /* width: 100%; */
     position: relative;
-    padding:70px;
+    padding:40px;
 }
 
 .body.small {
